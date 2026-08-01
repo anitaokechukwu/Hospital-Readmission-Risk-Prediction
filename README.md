@@ -47,7 +47,7 @@ https://your-app-name.streamlit.app
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature_importance03.png)
 
 ---
 
