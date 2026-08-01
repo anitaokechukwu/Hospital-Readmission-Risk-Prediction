@@ -26,15 +26,6 @@ The application is deployed as an interactive **Streamlit web application**, all
 
 ---
 
-# 🚀 Live Demo
-
-🔗 **Streamlit App**
-
-> *(Add your Streamlit deployment link here after deployment.)*
-
-Example:
-
-https://your-app-name.streamlit.app
 
 ---
 
