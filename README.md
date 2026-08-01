@@ -277,8 +277,8 @@ Healthcare Data Analyst | Machine Learning Enthusiast | Registered Midwife
 
 I am passionate about applying Data Analytics and Machine Learning to solve healthcare challenges and improve patient outcomes.
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/anitaokechukwu?tab=repositories
+- LinkedIn: https://www.linkedin.com/in/okechukwu-anita
 
 ---
 
