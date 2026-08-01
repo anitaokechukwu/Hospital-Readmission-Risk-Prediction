@@ -35,7 +35,7 @@ https://your-app-name.streamlit.app
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard03.png)
 
 ---
 
