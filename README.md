@@ -41,7 +41,7 @@ https://your-app-name.streamlit.app
 
 ## Prediction Result
 
-![Prediction](images/prediction.png)
+![Prediction](images/prediction03.png)
 
 ---
 
