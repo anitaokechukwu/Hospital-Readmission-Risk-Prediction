@@ -14,7 +14,7 @@
 
 ### 🌐 Live Application
 
-👉 https://your-app-name.streamlit.app
+👉 https://hospital-readmission-risk-prediction03.streamlit.app/
 
 # 📌 Project Overview
 
